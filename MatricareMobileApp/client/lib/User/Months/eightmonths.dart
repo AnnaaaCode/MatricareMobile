@@ -50,7 +50,7 @@ class _Week8State extends State<Eightmonths> {
                   },
                 ),
                 items: [
-                  _buildCarouselItem('images/months/eightmonths1.jpg'),
+                  _buildCarouselItem('images/months/eightmonths5.jpg'),
                   _buildCarouselItem('images/months/eightmonths2.jpg'),
                   _buildCarouselItem('images/months/eightmonths3.jpg'),
                 ],
